@@ -61,7 +61,7 @@ Ihr findet hier eine Übersicht in der auf unserer Seite erwähnten quelloffenen
 
 ## Hinweis
 
-Dieser Account dient nur dazu Projekte an einem Ort zu sammeln. Die eigentlichen Entwicklungen für die geforkten finden weiterhin ausschließlich in deren ursprünglichen Repostories statt.
+Dieser Account dient nur dazu Projekte an einem Ort zu sammeln. Die eigentlichen Entwicklungen für die geforkten finden weiterhin ausschließlich in deren ursprünglichen Repositories statt.
 
 ## Kontakt
 Bei Fragen und Hinweisen rund um diesen GitHub Account, twittert uns ([@drwindows_de](https://twitter.com/drwindows_de)) an oder schreibt eine Mail an github {ät} drwindows {punkt} de.
