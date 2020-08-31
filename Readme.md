@@ -4,7 +4,7 @@
 
 Willkommen auf der GitHub Seite von [Dr. Windows](https://drwindows.de).
 
-Ihr findet hier eine Übersicht in der auf unserer Seite erwähnten quelloffenen Projekten welche auf dieser Plattform ihr zu Hause haben.
+In der nun folgenden Liste findet ihr einen Überblick von quelloffenen Softwareprojekten welche in unseren Beiträgen eine Erwähnung fanden. Diese Liste ist nicht als absolut zu werten, dennoch soll diese zum Stöbern und wiederentdecken von spannenden Basteleien und ernsthaften Projekten sein.
 
 ## Übersicht
 
