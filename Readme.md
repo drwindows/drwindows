@@ -1,5 +1,5 @@
 <center>
-    <img src="images/logo.jpg">
+    <img src="https://raw.githubusercontent.com/drwindows/drwindows/master/images/logo.jpg">
 </center>
 
 Willkommen auf der GitHub Seite von [Dr. Windows](https://drwindows.de).
