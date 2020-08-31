@@ -12,11 +12,11 @@ In der nun folgenden Liste findet ihr einen Überblick von quelloffenen Software
 
 **#rtSd - Road To Surface Duo**
 - [Dr. Windows Artikel](https://www.drwindows.de/news/?lang=de&s=rtsd&submit=)
-- [GitHub Projekt](https://github.com/drwindows/xamarin-surface-duo-hinge-it)
+- [GitHub Projekt](https://github.com/drwindows/xamarin-road-to-surface-duo)
 
 **Hinge it! Wir basteln uns Spielchen für das Surface Duo**
 - [Dr. Windows Artikel](https://www.drwindows.de/news/hinge-it-wir-basteln-uns-spielchen-fuer-das-surface-duo)
-- [GitHub Projekt](https://github.com/drwindows/xamarin-road-to-surface-duo)
+- [GitHub Projekt](https://github.com/drwindows/xamarin-surface-duo-hinge-ito)
 
 **Wir bauen uns glückliche Nachrichten mit Xamarin und Azure**
 - [Dr. Windows Artikel](https://www.drwindows.de/news/wir-bauen-uns-glueckliche-nachrichten-mit-xamarin-und-azure)
