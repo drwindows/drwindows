@@ -19,10 +19,11 @@ In der nun folgenden Liste findet ihr einen Überblick von quelloffenen Software
 - [GitHub Projekt](https://github.com/drwindows/xamarin-surface-duo-hinge-ito)
 
 **DrWndR – Wir basteln uns mit GitHub Actions und Xamarin.Forms heiße News zum Swipen**
+- [Dr. Windows Artikel](https://www.drwindows.de/news/wir-bauen-uns-glueckliche-nachrichten-mit-xamarin-und-azure)
 - [GitHub Projekt](https://github.com/drwindows/xamarin-drwndr-app)
 
 **Wir basteln uns glückliche Nachrichten mit Xamarin und Azure**
-- [Dr. Windows Artikel](https://www.drwindows.de/news/wir-bauen-uns-glueckliche-nachrichten-mit-xamarin-und-azure)
+- [Dr. Windows Artikel](https://www.drwindows.de/xf/threads/drwndr-wir-basteln-uns-mit-github-actions-und-xamarin-forms-heiße-news-zum-swipen.173681/)
 - [GitHub Projekt](https://github.com/drwindows/xamarin-cognitive-services-news-app)
 
 ### Windows 10 IoT Core
