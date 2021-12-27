@@ -14,7 +14,7 @@ In der nun folgenden Liste findet ihr einen Überblick von quelloffenen Software
 - [Dr. Windows Artikel](https://www.drwindows.de/news/?lang=de&s=rtsd&submit=)
 - [GitHub Projekt](https://github.com/drwindows/xamarin-road-to-surface-duo)
 
-**Hinge it! Wir basteln uns Spielchen für das Surface Duo**
+**Hinge it - Wir basteln uns Spielchen für das Surface Duo**
 - [Dr. Windows Artikel](https://www.drwindows.de/news/hinge-it-wir-basteln-uns-spielchen-fuer-das-surface-duo)
 - [GitHub Projekt](https://github.com/drwindows/xamarin-surface-duo-hinge-ito)
 
@@ -22,9 +22,19 @@ In der nun folgenden Liste findet ihr einen Überblick von quelloffenen Software
 - [Dr. Windows Artikel](https://www.drwindows.de/news/wir-bauen-uns-glueckliche-nachrichten-mit-xamarin-und-azure)
 - [GitHub Projekt](https://github.com/drwindows/xamarin-drwndr-app)
 
-**Wir basteln uns glückliche Nachrichten mit Xamarin und Azure**
+**Happy News - Wir basteln uns glückliche Nachrichten mit Xamarin und Azure**
 - [Dr. Windows Artikel](https://www.drwindows.de/xf/threads/drwndr-wir-basteln-uns-mit-github-actions-und-xamarin-forms-heiße-news-zum-swipen.173681/)
 - [GitHub Projekt](https://github.com/drwindows/xamarin-cognitive-services-news-app)
+
+### Flutter
+**RssBook - Wir basteln uns mit Googles Flutter einen etwas anderen RSS Reader für das Surface Duo**
+- [Dr. Windows Artikel](https://www.drwindows.de/news/wir-basteln-uns-mit-googles-flutter-einen-etwas-anderen-rss-reader-fuer-das-surface-duo)
+- [GitHub Projekt](https://github.com/drwindows/flutter-surfaceduo-rssbook)
+
+### Kotlin
+**DuoBahn - Autobahn API App für das Surface Duo**
+- [Dr. Windows Artikel](https://www.drwindows.de/news/?s=duobahn)
+- [GitHub Projekt](https://github.com/drwindows/kotlin-surfaceduo-duobahn)
 
 ### Windows 10 IoT Core
 
